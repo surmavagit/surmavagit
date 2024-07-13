@@ -1,10 +1,11 @@
 ### Looking for a job
 in software development
 
-- preferably in backend (though frontend is an option too)
-- preferably involving Golang (other options being JS/TS or Python)
-- preferably in Berlin (or remote)
-- preferably english-speaking
+preferably:
+- backend (though frontend is an option too)
+- Golang (other options being JS/TS or Python)
+- Berlin (or remote)
+- english-speaking
 
 <!--
 **surmavagit/surmavagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
