@@ -1,6 +1,10 @@
-### Hi there 👋
+### Looking for a job
+in software development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surmavagit&layout=compact&theme=tokyonight&hide=Lua)](https://github.com/anuraghazra/github-readme-stats)
+- preferably in backend (though frontend is an option too)
+- preferably involving Golang (other options being JS/TS or Python)
+- preferably in Berlin (or remote)
+- preferably english-speaking
 
 <!--
 **surmavagit/surmavagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
